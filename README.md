@@ -1,2 +1,3 @@
-# Carpeta-Exposici-n
+# ejemplo
+
 factorización de matriz
